@@ -1,5 +1,5 @@
 {
-  "name": "jorijn/bitcoin-bolt11",
+  "name": "enzyofficial/bitcoin-bolt11",
   "description": "A library for decoding lightning network payment requests as defined in BOLT #11",
   "type": "library",
   "license": "MIT",
@@ -41,6 +41,6 @@
     "ext-bcmath": "*",
     "ext-gmp": "*",
     "bitwasp/bech32": "^0.0.1",
-    "protonlabs/bitcoin": "1.0.x-dev"
+    "protonlabs/bitcoin": "^1.0"
   }
 }
