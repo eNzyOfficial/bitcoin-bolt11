@@ -12,7 +12,7 @@ BOLT #11 is a simple, extendable, QR-code-ready protocol for requesting payments
 ## Installation
 
 ```shell
-$ composer require jorijn/bitcoin-bolt11
+$ composer require enzyofficial/bitcoin-bolt11
 ```
 
 ## Usage
