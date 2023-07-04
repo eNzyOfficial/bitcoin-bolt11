@@ -296,6 +296,7 @@ class PaymentRequestDecoder
     {
         switch ($bech32Prefix) {
             case 'bc':
+            case 'bcrt':
                 return new BitcoinMainnet();
 
             case 'tb':
